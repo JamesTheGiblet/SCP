@@ -243,3 +243,9 @@ Let's fix this together.
 ---
 
 No more fragmentation. No more 4:47 AM panic. Just your thoughts, staying yours, everywhere. 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
